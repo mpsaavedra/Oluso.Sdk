@@ -1,0 +1,6 @@
+[submodule "src/Oluso.Data"]
+	path = src/Oluso.Data
+	url = git@github.com:mpsaavedra/Oluso.Data.git
+[submodule "src/Oluso.Core"]
+	path = src/Oluso.Core
+	url = git@github.com:mpsaavedra/Oluso.Core.git
